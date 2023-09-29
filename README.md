@@ -2,7 +2,7 @@
 
 # Hi! I'm Ethan Sumner :)
 
-* 🤵 Currently working as a Cloud Solutions Architect at Microsoft within the UK Customer Success Unit.
+* 🤵 Currently working as a Manager at Cognizant
 * 💻 My main Specialisms are FinOps and Serverless
 * 🙌 I am currently trying to Learn Go, Kubernetes and High Performance Computing
 
