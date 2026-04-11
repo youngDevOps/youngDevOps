@@ -2,11 +2,11 @@
 
 # Hi! I'm Ethan Sumner :)
 
-* 🤵 Currently working as a Manager at Cognizant
-* 💻 My main Specialisms are FinOps and Serverless
-* 🙌 I am currently trying to Learn Go, Kubernetes and High Performance Computing
+* 🤵 Currently working within Barclys Chief Technology Office as Engineering Excellence Lead
+* 💻 My main Specialisms are FinOps, DevEx DevOps and Cloud
+* 🙌 I am currently trying to Learn Go, Kubernetes and Master Data/AI
 
 ## #CommunityAdvocate
-* Young DevOps 
+* Community Stack
 * Yorkshire DevOps
 * Yorkshire Azure User Group
