@@ -2,7 +2,7 @@
 
 # Hi! I'm Ethan Sumner :)
 
-* 🤵 Currently working within Barclys Chief Technology Office as Engineering Excellence Lead
+* 🤵 Currently working within Barclays Chief Technology Office as Engineering Excellence Lead
 * 💻 My main Specialisms are FinOps, DevEx DevOps and Cloud
 * 🙌 I am currently trying to Learn Go, Kubernetes and Master Data/AI
 
